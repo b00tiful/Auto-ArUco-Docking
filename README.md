@@ -14,7 +14,7 @@ The ARUco Visual Docking System enables robots to autonomously detect, approach,
 - Automatic marker search behavior when target is lost
 - Complete visual feedback for monitoring and debugging
 
-### Architecture
+## Architecture
 
 The system consists of three main components:
 
