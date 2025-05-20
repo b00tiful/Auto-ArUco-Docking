@@ -76,7 +76,7 @@ ros2 run aruco_docking_system docking_controller.py
 
 The system can be configured by modifying the following parameters:
 
-#Camera Calibration
+# Camera Calibration
 
 Update the camera intrinsic parameters in `aruco_pose_estimation.py`:
 
@@ -92,7 +92,7 @@ self.intrinsic_camera = np.array([
 self.distortion = np.array([-0.43948, 0.18514, 0, 0])
 ```
 
-#Marker Size
+# Marker Size
 
 Modify the marker size (in meters) in `aruco_pose_estimation.py`:
 
@@ -101,7 +101,7 @@ Modify the marker size (in meters) in `aruco_pose_estimation.py`:
 self.marker_size = 0.02
 ```
 
-#Docking Parameters
+# Docking Parameters
 
 Adjust the docking behavior in `docking_controller.py`:
 
