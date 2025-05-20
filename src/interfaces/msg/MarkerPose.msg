@@ -1,0 +1,3 @@
+uint32 marker_id
+geometry_msgs/Vector3 translation
+geometry_msgs/Vector3 rotation
