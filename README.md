@@ -4,7 +4,7 @@
 
 ## System Overview
 
-The ARUco Visual Docking System enables robots to autonomously detect, approach, and precisely dock with targets equipped with ArUco markers. This system provides a robust, camera-based solution for applications such as automated charging, payload transfer, or precision positioning.
+The ArUco Visual Docking System enables robots to autonomously detect, approach, and precisely dock with targets equipped with ArUco markers. This system provides a robust, camera-based solution for applications such as automated charging, payload transfer, or precision positioning.
 
 ## Features
 
